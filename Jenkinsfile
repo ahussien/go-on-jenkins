@@ -1,4 +1,4 @@
-pipline {
+pipeline {
     agent any
     environment {
         GO111MODULE=on
